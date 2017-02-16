@@ -3,17 +3,11 @@ IDEA#2
 ~Overview of your idea
 > This idea aims to uncover the factors that affect a person's retail shopping behaviour.
 
-
-
 ~What data you will use, and how you will collect it
 One person's seven-year credit card history
 
-
-
 ~What the outcome is that you are trying to achieve
 Uncover the factors that cause one specific person to spend >30% of her monthly income on retail shopping on a given month.
-
-
 
 ~Any ideas of modelling techniques it may involve
 Auto-correlation
