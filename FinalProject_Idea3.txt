@@ -1,0 +1,13 @@
+IDEA#3
+
+~Overview of your idea
+>Predict property prices in Sydney given the Suburb, dwelling type (unit vs house), # of rooms, # of bathrooms, # of garage, close proximity to : good schools, westfield and train station. 
+
+~What data you will use, and how you will collect it
+>Public Data from Domain.com over the last three months
+
+~What the outcome is that you are trying to achieve
+> Predict a fair price range given a property in a specific address.
+
+~Any ideas of modelling techniques it may involve
+> Regression Modelling

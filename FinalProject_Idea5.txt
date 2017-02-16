@@ -1,0 +1,13 @@
+IDEA#5
+
+~Overview of your idea
+A model that can predict a call centre staff's probability of calling in sick on the 10th day, given the percentage of breaks that he spends with his "work buddies".
+
+~What data you will use, and how you will collect it
+HR data of a 70-people call centre collected over the last six months containing people's logs of break start and end time, their buddies and a log of their sick days off.
+
+~What the outcome is that you are trying to achieve
+A predictive model to forecast the likelihood of a certain call centre staff calling in sick the next day
+
+~Any ideas of modelling techniques it may involve
+Community Detection using EigenVectors
