@@ -1,0 +1,19 @@
+IDEA#1
+
+~Overview of your idea
+
+>To be able to predict the likelihood of calling in sick on the 16th day given the step count average over the last 15days.
+
+
+~What data you will use, and how you will collect it
+> Historical step count from Fitbit over the last 12 months
+
+
+
+~What the outcome is that you are trying to achieve
+>An accurate prediction of someone getting sick
+
+
+
+~Any ideas of modelling techniques it may involve
+>Auto-correlation / Regression Modelling
