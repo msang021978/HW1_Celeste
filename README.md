@@ -1,4 +1,4 @@
-# Assignment Part @: 2 Identify some numeric and categorical features in your data. Write this up in a file called README.md 
+Assignment Part 2: Identify some numeric and categorical features in your data. Write this up in a file called README.md 
 
 
 
